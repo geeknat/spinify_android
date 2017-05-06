@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinify</string>
+
+    <string name="title_activity_game">" "</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="custom_font">fonts/font.ttf</string>
+    <string name="how_to_play">How to play</string>
+    <string name="get_a_real_one">Get a Real One</string>
+</resources>
